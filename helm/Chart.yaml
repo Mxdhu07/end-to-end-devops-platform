@@ -1,0 +1,6 @@
+apiVersion: v2
+name: end-to-end-devops-platform
+description: Helm chart for the End-to-End DevOps Platform
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
